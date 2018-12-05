@@ -1,2 +1,0 @@
-# hello-world
-Misc repository
